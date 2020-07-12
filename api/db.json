@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "CallOfDuty",
+      "description": "Game Streaming",
+      "userId": "107941561608729776156",
+      "id": 2
+    },
+    {
+      "title": "GTA 5",
+      "description": "24*7 Streaming of GTA 5",
+      "userId": "107941561608729776156",
+      "id": 3
+    }
+  ]
+}
